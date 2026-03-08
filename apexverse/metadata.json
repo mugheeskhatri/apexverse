@@ -1,0 +1,5 @@
+{
+  "name": "Apexverse",
+  "description": "AI-powered document parsing platform that converts unstructured documents into AI-ready structured data for RAG and LLM applications.",
+  "requestFramePermissions": []
+}
